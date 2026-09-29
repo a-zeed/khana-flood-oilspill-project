@@ -1,0 +1,5 @@
+Expectation, written before running the analysis:
+The settlements layer has 1,815 blocks. I expect roughly 25 to 40 percent
+of them (about 450 to 725 blocks) to fall within 200 m of a waterway, because
+the mapped rivers and streams run through the main settlement clusters.
+The waterway buffer should be one dissolved corridor shape.

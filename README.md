@@ -8,6 +8,9 @@ Built over twelve months with GeoDev Lab Africa, Cohort One. Khana sits at the h
 
 Of the 1,815 settlement blocks mapped in Khana LGA, **100 (about 5.5%) sit within 200 metres of a mapped river or stream.** This is far lower than the 25–40% expected going in — see `month-1-summary.md` below for why that gap itself is a real finding, not an error. This answers the "near watercourses" half of the project question. The "low-lying land" half still needs elevation data, which is the next planned step.
 
+## screenshot 
+![Week 4 map — settlements near waterways](./week4-map.png)
+
 ## How this repository is organised
 
 | Week | What it covers | Files |

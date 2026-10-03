@@ -24,6 +24,5 @@ Of the 1,815 settlement blocks mapped in Khana LGA, **100 (about 5.5%) sit withi
 3. **Week 3** — put everything in the correct coordinate system for measuring distance in this part of Nigeria (EPSG:32632, UTM zone 32N — corrected after an initial wrong-zone attempt), clipped it all to Khana LGA, and ran five quality checks on the prepared data.
 4. **Week 4** — ran the first real spatial operation: a 200 m buffer around every waterway, then selected which settlement blocks fall inside it. Checked the result four ways (map, count, hand verification, empty geometry) before trusting it.
 
-## What's next (Month 2)
-
-Add elevation data (SRTM/Copernicus DEM) to identify which of these 100 near-waterway settlements also sit on low-lying land — completing the full project question.
+   ## Month 2: development environment and early Python
+   Week 5: set up Python, VS Code and the terminal. hello.py runs.

@@ -29,3 +29,4 @@ Of the 1,815 settlement blocks mapped in Khana LGA, **100 (about 5.5%) sit withi
 
    ## Month 2: Development environment and early Python
    Week 5: set up Python, VS Code and the terminal. hello.py runs.
+   Week 6: set up the project with uv and added pandas. check.py prints the pandas version.

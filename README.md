@@ -28,5 +28,6 @@ Of the 1,815 settlement blocks mapped in Khana LGA, **100 (about 5.5%) sit withi
 4. **Week 4** — ran the first real spatial operation: a 200 m buffer around every waterway, then selected which settlement blocks fall inside it. Checked the result four ways (map, count, hand verification, empty geometry) before trusting it.
 
    ## Month 2: Development environment and early Python
-   Week 5: set up Python, VS Code and the terminal. hello.py runs.
-   Week 6: set up the project with uv and added pandas. check.py prints the pandas version.
+   **Week 5**: set up Python, VS Code and the terminal. hello.py runs.
+   
+   **Week 6**: set up the project with uv and added pandas. check.py prints the pandas version.

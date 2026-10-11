@@ -18,7 +18,7 @@ Of the 1,815 settlement blocks mapped in Khana LGA, **100 (about 5.5%) sit withi
 | **Week 1** | The question, the study area, and a source link for every dataset needed | [`project-brief.md`](./project-brief.md) |
 | **Week 2** | What was downloaded, from where, feature counts, columns, and gaps found in each dataset | [`data-notes.md`](./data-notes.md) |
 | **Week 3** | Reprojecting to the correct CRS (EPSG:32632), clipping to Khana, and the five data quality checks | [`week3-crs-notes.md`](./week3-crs-notes.md), plus the analysis-ready files: `study_area_utm32.gpkg`, `settlements_khana_utm32.gpkg`, `waterways_lines_utm32.gpkg`, `waterways_points_utm32.gpkg` |
-| **Week 4** | The first real analysis: buffering waterways and finding which settlements fall inside | [`month-1-summary.md`](./week%204/Week4/month-1-summary.md), [`expectation.txt`](./expectation.txt) (written before the result was known), the result map (PNG), and `waterways_buffer_200m.gpkg` / `settlements_near_waterways.gpkg` |
+| **Week 4** | The first real analysis: buffering waterways and finding which settlements fall inside | [`month-1-summary.md`](./week%204/month-1-summary.md), [`expectation.txt`](./week%204/expectation.txt) (written before the result was known), the result map (PNG), and `waterways_buffer_200m.gpkg` / `settlements_near_waterways.gpkg` |
 
 ## The story, start to finish
 

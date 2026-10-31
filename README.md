@@ -34,3 +34,7 @@ Of the 1,815 settlement blocks mapped in Khana LGA, **100 (about 5.5%) sit withi
   7. **Week 7**: analyse.py reads wards.csv, converts each area and classifies each ward.
   8. **Week 8**: inspect_data.py summarises block_area_sqm and building_count in my Khana settlements-near-waterways data.
   9. **Week 9**: summary.py refactors the analysis into read_rows, clean_values and summarise, and summarise_all summarises two columns of my Khana settlements data.
+
+## Month 2 reflection
+
+The idea that finally clicked this month was splitting code into small functions. Moving the reading, cleaning and summarising into read_rows, clean_values and summarise made summary.py easier to follow, and I could check the refactor was correct because the output was identical to my Week 8 numbers. What is still fuzzy is how everything fits together when something goes wrong: this month I hit a few setup problems, like QGIS being blocked by Windows and geopandas not being installed, and I am still learning how to work out where a problem comes from. Running summarise_all on block_area_sqm and building_count gave a count of 100 for both columns, so neither has missing values, and the settlements near waterways vary a lot in size, with block areas from about 5,800 to 188,000 sqm and building counts from 1 to 150.

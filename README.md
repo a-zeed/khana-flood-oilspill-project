@@ -33,3 +33,4 @@ Of the 1,815 settlement blocks mapped in Khana LGA, **100 (about 5.5%) sit withi
   6. **Week 6**: set up the project with uv and added pandas. check.py prints the panda  version.
   7. **Week 7**: analyse.py reads wards.csv, converts each area and classifies each ward.
   8. **Week 8**: inspect_data.py summarises block_area_sqm and building_count in my Khana settlements-near-waterways data.
+  9. **Week 9**: summary.py refactors the analysis into read_rows, clean_values and summarise, and summarise_all summarises two columns of my Khana settlements data.

@@ -38,3 +38,7 @@ Of the 1,815 settlement blocks mapped in Khana LGA, **100 (about 5.5%) sit withi
 ## Month 2 reflection
 
 The idea that finally clicked this month was splitting code into small functions. Moving the reading, cleaning and summarising into read_rows, clean_values and summarise made summary.py easier to follow, and I could check the refactor was correct because the output was identical to my Week 8 numbers. What is still fuzzy is how everything fits together when something goes wrong: this month I hit a few setup problems, like QGIS being blocked by Windows and geopandas not being installed, and I am still learning how to work out where a problem comes from. Running summarise_all on block_area_sqm and building_count gave a count of 100 for both columns, so neither has missing values, and the settlements near waterways vary a lot in size, with block areas from about 5,800 to 188,000 sqm and building counts from 1 to 150.
+
+## Month 3: geospatial Python and automation
+
+- Week 10: GeoPandas. Loaded, checked, joined and mapped my Khana settlements-near-waterways layer in code.

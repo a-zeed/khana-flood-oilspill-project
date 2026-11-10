@@ -41,4 +41,4 @@ The idea that finally clicked this month was splitting code into small functions
 
 ## Month 3: geospatial Python and automation
 
-- Week 10: GeoPandas. Loaded, checked, joined and mapped my Khana settlements-near-waterways layer in code.
+10. **Week 10**: GeoPandas. Loaded, checked, joined and mapped my Khana settlements-near-waterways layer in code.

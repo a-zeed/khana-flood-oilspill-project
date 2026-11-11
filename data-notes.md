@@ -1,3 +1,5 @@
+Project CRS: EPSG:32632 (UTM zone 32N, Khana LGA)
+
 # Data notes
 
 ## GRID3 NGA – Operational LGA Boundaries
@@ -35,4 +37,3 @@
 - Geometry type: Point
 - Key columns: full_id, osm_id, osm_type, ford
 - Note: these are river/stream fords (ford=yes) — road crossings over waterways with no bridge — not water points or springs as initially expected. Very small sample size (4), so likely under-mapped in this area; not enough to draw conclusions about ford locations generally, but worth flagging as points that may flood or become impassable first.
-

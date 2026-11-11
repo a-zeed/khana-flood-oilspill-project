@@ -43,3 +43,4 @@ The idea that finally clicked this month was splitting code into small functions
 
 10. **Week 10**:  GeoPandas. Loaded, checked, joined and mapped my Khana settlements-near-waterways layer in code.
 11. **Week 11**: CRS and spatial operations. Reprojected to EPSG:32632 and measured Khana's area (523.4 km2), waterway length (94.45 km), spills per 5 km cell and flood water from two UNOSAT layers.
+10. **Week 10**: GeoPandas. Loaded, checked, joined and mapped my Khana settlements-near-waterways layer in code.
